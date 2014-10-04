@@ -24,6 +24,9 @@ Links from my Epic FEL talk on ES6
 ## Destructuring
 - http://ariya.ofilabs.com/2013/02/es6-and-destructuring-assignment.html
 
+## Function Arguments
+- http://globaldev.co.uk/2013/10/es6-part-4/
+
 ## Modules
 
 - http://guybedford.com/practical-workflows-for-es6-modules
